@@ -119,7 +119,7 @@ $$ \boxed{x_{t-1} = \mu_\theta(x_t, t)+ \sigma_t z} $$
 
 ---
 
-# Further appliance
+# Further applications
 
 <img src=https://substackcdn.com/image/fetch/$s_!W6tU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53f44c06-b970-43ce-af93-1feec1434e95_1134x650.png width="700" />
 
