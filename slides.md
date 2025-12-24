@@ -20,7 +20,7 @@ transition: slide-left
 ---
 
 # In one sentence:
-<div class="text-2xl"> Gradualy add Gaussian noise and then reserve </div>
+<div class="text-2xl"> Gradualy add Gaussian noise and then reverse </div>
 <br><br><br>
 <img src=https://cdn.prod.website-files.com/614c82ed388d53640613982e/66b37e8b2ea6e35611d24c2f_66b37e2e4af07a0baef9484c_consistency-models.webp width="700" />
 
